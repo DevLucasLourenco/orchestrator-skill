@@ -18,7 +18,7 @@ Copie a pasta `orchestrator` para o diretório de skills do Claude Code.
 Para todos os projetos (pasta do usuário):
 
 ```bash
-git clone https://github.com/<seu-usuario>/orchestrator-skill.git
+git clone https://github.com/DevLucasLourenco/orchestrator-skill.git
 cp -r orchestrator-skill/orchestrator ~/.claude/skills/
 ```
 
